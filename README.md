@@ -23,9 +23,9 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 ## List of Answer:
 
-[^2]: 2 [Add Two Numbers](/add-two-numbers.go)
+[^2]: 2 [Add Two Numbers](./add-two-numbers.go)
 
-[^7]: 7 [Reverse Integer](./leetcode/reverse-integer.go)
+[^7]: 7 [Reverse Integer](./reverse-integer.go)
 
 [^12]: 12 [Integer to Roman](./integer-to-roman.go)
 
