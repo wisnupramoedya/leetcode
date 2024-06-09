@@ -40,4 +40,6 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 12 - [Integer to Roman](./integer-to-roman.go)
 
+215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array.go)
+
 622 - [Design Circular Queue](./design-circular-queue.go)

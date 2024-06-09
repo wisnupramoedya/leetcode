@@ -4,6 +4,10 @@
  * 2. -1563847412
  **/
 
+package leetcode
+
+import "math"
+
 func reverse(x int) int {
 	var result = 0
 	var isNegative = x < 0

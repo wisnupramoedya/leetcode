@@ -1,5 +1,5 @@
 // tags: math
-package add_two_numbers
+package leetcode
 
 /**
  * Definition for singly-linked list.
@@ -8,6 +8,11 @@ package add_two_numbers
  *     Next *ListNode
  * }
  */
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	var firstNode, lastNode, listNode *ListNode
 	var tens, i, sum int = 0, 0, 0

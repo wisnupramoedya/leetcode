@@ -1,3 +1,5 @@
+package leetcode
+
 type MyCircularQueue struct {
 	Value []int
 	First int
