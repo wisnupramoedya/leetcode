@@ -29,8 +29,14 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 ### Data Structures
 
+#### Stack
+  - Basic: 71
+
 #### Queue
   - Basic: 622
+
+#### Priority Queue
+  - Basic: 215
 
 # List of Answers
 
@@ -39,6 +45,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 7 - [Reverse Integer](./reverse-integer.go)
 
 12 - [Integer to Roman](./integer-to-roman.go)
+
+71 - [Simplify Path](./simplify_path.go)
 
 215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array.go)
 
