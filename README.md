@@ -27,6 +27,9 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 #### Mathematics
   - Basic: 2, 7, 12
 
+### Sorting
+  - Basic: 148
+
 ### Data Structures
 
 #### Stack
@@ -47,6 +50,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 12 - [Integer to Roman](./integer-to-roman.go)
 
 71 - [Simplify Path](./simplify_path.go)
+
+148 - Sort List [1](./sort_list/1/sort_list.go), [2](./sort_list/2/sort_list.go)
 
 215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array.go)
 
