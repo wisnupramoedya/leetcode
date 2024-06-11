@@ -1,4 +1,4 @@
-package leetcode
+package simplify_path
 
 /*
 Success

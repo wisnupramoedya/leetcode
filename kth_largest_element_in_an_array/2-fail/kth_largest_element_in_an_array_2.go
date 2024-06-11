@@ -1,6 +1,6 @@
 // problem TLE
 
-package leetcode
+package kth_largest_element_in_an_array
 
 type Item struct {
 	Value int

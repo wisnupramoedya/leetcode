@@ -4,7 +4,7 @@ This is my database of Leetcode's answer as part of 1 day 1 leetcode. It might n
 
 Note:
 
-- Unsuccessful answer is marked with "." before the file, ensuring it stays hidden.
+- Unsuccessful answer is marked with "-try" or "-fail" after the folder.
 
 ## Table of Contents
 - [Leetcode](#leetcode)
@@ -49,10 +49,10 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 12 - [Integer to Roman](./integer-to-roman.go)
 
-71 - [Simplify Path](./simplify_path.go)
+71 - [Simplify Path](./simplify_path/1/simplify_path.go)
 
 148 - Sort List [1](./sort_list/1/sort_list.go), [2](./sort_list/2/sort_list.go)
 
-215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array.go)
+215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array/1/kth_largest_element_in_an_array.go)
 
 622 - [Design Circular Queue](./design-circular-queue.go)
