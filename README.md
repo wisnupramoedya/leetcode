@@ -32,6 +32,9 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 ### Data Structures
 
+#### Set
+  - Basic: 1
+
 #### Stack
   - Basic: 71
 
@@ -42,6 +45,7 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
   - Basic: 215
 
 # List of Answers
+1 - [Two Sum](./1_two_sum/1/1_two_sum.go)
 
 2 - [Add Two Numbers](./add-two-numbers.go)
 
