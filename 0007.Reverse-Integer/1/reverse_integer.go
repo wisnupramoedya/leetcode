@@ -1,10 +1,6 @@
 // tags: math
-/** Unique Testcase
- * 1. 1563847412
- * 2. -1563847412
- **/
 
-package leetcode
+package reverse_integer
 
 import "math"
 
