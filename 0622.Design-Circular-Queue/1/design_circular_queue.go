@@ -1,4 +1,4 @@
-package leetcode
+package design_circular_queue
 
 type MyCircularQueue struct {
 	Value []int

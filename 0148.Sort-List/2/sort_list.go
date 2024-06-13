@@ -1,4 +1,8 @@
-package sort_list2
+package sort_list
+
+import "github.com/wisnupramoedya/leetcode/structures"
+
+type ListNode = structures.ListNode
 
 /**
  * Definition for singly-linked list.

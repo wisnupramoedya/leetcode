@@ -1,4 +1,8 @@
-package sort_list1
+package sort_list
+
+import "github.com/wisnupramoedya/leetcode/structures"
+
+type ListNode = structures.ListNode
 
 /**
  * Definition for singly-linked list.
@@ -61,7 +65,7 @@ func mergeSort(items []int) []int {
 	return merge(itemsA, itemsB)
 }
 
-func SortList(head *ListNode) *ListNode {
+func sortList(head *ListNode) *ListNode {
 	var values []int
 	for {
 		if head == nil {
