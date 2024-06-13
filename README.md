@@ -55,12 +55,14 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 13 - [Roman to Integer](./0013.Roman-to-Integer/1/roman_to_integer.go)
 
-71 - [Simplify Path](./simplify_path/1/simplify_path.go)
+71 - [Simplify Path](./0071.Simplify-Path/1/simplify_path.go)
 
-148 - Sort List [1](./sort_list/1/sort_list.go), [2](./sort_list/2/sort_list.go)
+148 - Sort List [1](./0148.Sort-List/1/sort_list.go), [2](./0148.Sort-List/2/sort_list.go)
 
-215 - [Kth Largest Element in an Array](./kth_largest_element_in_an_array/1/kth_largest_element_in_an_array.go)
+215 - Kth Largest Element in an Array [1](./0215.Kth-Largest-Element-in-an-Array/1/kth_largest_element_in_an_array.go), [2](./0215.Kth-Largest-Element-in-an-Array/2/kth_largest_element_in_an_array.go)
 
-622 - [Design Circular Queue](./0622.Design-Circular-Queue/1/design_circular_queue.go) (nut)
+622 - [Design Circular Queue](./0622.Design-Circular-Queue/1/design_circular_queue.go)
+
+2037 - [Minimum Number of Moves to Seat Everyone](./2037.Minimum-Number-of-Moves-to-Seat-Everyone/1/minimum_number_of_moves_to_seat_everyone.go)
 
 nut: no unit testing
