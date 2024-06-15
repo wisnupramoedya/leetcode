@@ -33,7 +33,7 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 ### Data Structures
 
 #### Set
-  - Basic: 1
+  - Basic: 1, 3
 
 #### Stack
   - Basic: 71
@@ -48,6 +48,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 1 - [Two Sum](./0001.Two-Sum/1/two_sum.go)
 
 2 - [Add Two Numbers](./0002.Add-Two-Numbers/1/add_two_numbers.go)
+
+3 - [Longest Substring Without Repeating Characters](./0003.Longest-Substring-Without-Repeating-Characters/1/longest_substring_without_repeating_characters.go)
 
 7 - [Reverse Integer](./0007.Reverse-Integer/1/reverse_integer.go)
 
