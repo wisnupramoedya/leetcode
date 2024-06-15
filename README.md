@@ -38,13 +38,20 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
   - Basic: 1, 3
 
 #### Stack
-  - Basic: 71
+  - Basic: 71, 114
 
 #### Queue
   - Basic: 622
 
 #### Priority Queue
   - Basic: 215
+
+## II. Graph Algorithms
+
+### Tree Algorithms
+
+#### Binary Trees
+- Basic: 114
 
 # List of Answers
 1 - [Two Sum](./0001.Two-Sum/1/two_sum.go)
