@@ -2,6 +2,8 @@
 
 This is my database of Leetcode's answer as part of 1 day 1 leetcode. It might not be 100% efficient.
 
+Inspired by [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+
 Note:
 
 - Unsuccessful answer is marked with "-try" or "-fail" after the folder.
@@ -58,6 +60,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 13 - [Roman to Integer](./0013.Roman-to-Integer/1/roman_to_integer.go)
 
 71 - [Simplify Path](./0071.Simplify-Path/1/simplify_path.go)
+
+114 - [Flatten Binary Tree to Linked List](./0114.Flatten-Binary-Tree-to-Linked-List/1/flatten_binary_tree_to_linked_list.go)
 
 148 - Sort List [1](./0148.Sort-List/1/sort_list.go), [2](./0148.Sort-List/2/sort_list.go)
 
