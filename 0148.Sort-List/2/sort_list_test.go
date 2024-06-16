@@ -20,7 +20,7 @@ func Test148_1_1(t *testing.T) {
 
 	result := run(head)
 
-	if !utils.IsArrayNumberSame(result, expected) {
+	if !utils.IsArraySame(result, expected) {
 		t.Errorf("It is not the same array of int")
 	}
 }
@@ -31,7 +31,7 @@ func Test148_1_2(t *testing.T) {
 
 	result := run(head)
 
-	if !utils.IsArrayNumberSame(result, expected) {
+	if !utils.IsArraySame(result, expected) {
 		t.Errorf("It is not the same array of int")
 	}
 }
@@ -42,7 +42,7 @@ func Test148_1_3(t *testing.T) {
 
 	result := run(head)
 
-	if !utils.IsArrayNumberSame(result, expected) {
+	if !utils.IsArraySame(result, expected) {
 		t.Errorf("It is not the same array of int")
 	}
 }

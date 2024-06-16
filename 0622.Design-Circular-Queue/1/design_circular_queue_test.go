@@ -40,7 +40,7 @@ func Test622_1_1(t *testing.T) {
 
 	result := run(commands, args)
 
-	if !utils.IsArrayInterfaceSame(output, result) {
+	if !utils.IsArraySame(output, result) {
 		t.Errorf("It is not the same array")
 	}
 
