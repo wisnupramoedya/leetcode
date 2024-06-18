@@ -48,7 +48,7 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
 ### Complete Search
 #### Backtracking
-  - Basic: 17, 22
+  - Basic: 17, 22, 39
 
 ### Greedy Algorithms
   - Basic: 11
@@ -78,6 +78,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 17 - Letter Combinations of a Phone Number [1](./0017.Letter-Combinations-of-a-Phone-Number/1/letter_combinations_of_a_phone_number.go), [2](./0017.Letter-Combinations-of-a-Phone-Number/2/letter_combinations_of_a_phone_number.go)
 
 22 - [Generate Parentheses](./0022.Generate-Parentheses/1/generate_parentheses.go)
+
+39 - [Combination Sum](./0039.Combination-Sum/1/combination_sum.go)
 
 71 - [Simplify Path](./0071.Simplify-Path/1/simplify_path.go)
 
