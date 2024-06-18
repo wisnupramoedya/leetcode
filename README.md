@@ -46,6 +46,10 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 #### Priority Queue
   - Basic: 215
 
+### Complete Search
+#### Backtracking
+  - Basic: 17, 22
+
 ### Greedy Algorithms
   - Basic: 11
 
@@ -72,6 +76,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 13 - [Roman to Integer](./0013.Roman-to-Integer/1/roman_to_integer.go)
 
 17 - Letter Combinations of a Phone Number [1](./0017.Letter-Combinations-of-a-Phone-Number/1/letter_combinations_of_a_phone_number.go), [2](./0017.Letter-Combinations-of-a-Phone-Number/2/letter_combinations_of_a_phone_number.go)
+
+22 - [Generate Parentheses](./0022.Generate-Parentheses/1/generate_parentheses.go)
 
 71 - [Simplify Path](./0071.Simplify-Path/1/simplify_path.go)
 
