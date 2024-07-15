@@ -51,7 +51,7 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
   - Basic: 17, 22, 39
 
 ### Greedy Algorithms
-  - Basic: 11, 45
+  - Basic: 11, 45, 55
 
 ## II. Graph Algorithms
 
@@ -82,6 +82,8 @@ I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 39 - [Combination Sum](./0039.Combination-Sum/1/combination_sum.go)
 
 45 - [Jump Game II](./0045.Jump-Game-II/1/jump_game_ii.go)
+
+55 - [Jump Game](./0055.Jump-Game/1/jump_game.go)
 
 71 - [Simplify Path](./0071.Simplify-Path/1/simplify_path.go)
 
