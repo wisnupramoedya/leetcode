@@ -22,6 +22,11 @@ Note:
 # Step of Learning
 I use "Competitive Programmer’s Handbook" by Antti Laaksonen as the reference.
 
+To create template just call this:
+```cmd
+go run template.go test_number "test_name"
+```
+
 ## I. Basic Techniques
 
 ### Introduction
