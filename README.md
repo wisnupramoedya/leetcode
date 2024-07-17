@@ -57,6 +57,8 @@ go run template.go test_number "test_name"
 
 ### Greedy Algorithms
   - Basic: 11, 45, 55
+#### Scheduling
+  - Basic: 452
 
 ## II. Graph Algorithms
 
@@ -97,6 +99,8 @@ go run template.go test_number "test_name"
 148 - Sort List [1](./0148.Sort-List/1/sort_list.go), [2](./0148.Sort-List/2/sort_list.go)
 
 215 - Kth Largest Element in an Array [1](./0215.Kth-Largest-Element-in-an-Array/1/kth_largest_element_in_an_array.go), [2](./0215.Kth-Largest-Element-in-an-Array/2/kth_largest_element_in_an_array.go)
+
+452 - [Minimum Number of Arrows to Burst Balloons](./0452.Minimum-Number-of-Arrows-to-Burst-Balloons/1/minimum_number_of_arrows_to_burst_balloons.go)
 
 622 - [Design Circular Queue](./0622.Design-Circular-Queue/1/design_circular_queue.go)
 
